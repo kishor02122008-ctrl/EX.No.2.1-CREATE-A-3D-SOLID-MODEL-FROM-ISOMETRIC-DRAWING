@@ -1,4 +1,4 @@
-# EX.No.2.1  Create a 3D solid model from isometric drawing
+# EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date:13/10/2026
 
 ## AIM
